@@ -133,3 +133,9 @@ p a {
   color: royalblue;
   font-weight: bold;
 }
+
+#img-caption {
+  margin: 0;
+  padding: 0;
+  display: none;
+}
